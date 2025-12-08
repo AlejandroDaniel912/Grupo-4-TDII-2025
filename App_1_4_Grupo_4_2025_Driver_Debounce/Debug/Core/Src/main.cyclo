@@ -1,0 +1,10 @@
+../Core/Src/main.c:95:5:main	5
+../Core/Src/main.c:160:6:buttonPressed	2
+../Core/Src/main.c:169:6:buttonReleased	1
+../Core/Src/main.c:174:6:readKey	1
+../Core/Src/main.c:179:10:getCurrentMs	1
+../Core/Src/main.c:188:6:SystemClock_Config	3
+../Core/Src/main.c:234:13:MX_ETH_Init	2
+../Core/Src/main.c:283:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:316:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:354:6:Error_Handler	1
